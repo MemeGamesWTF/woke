@@ -1,4 +1,4 @@
-const cacheName = "DefaultCompany-diddyOil-1.0";
+const cacheName = "DefaultCompany-woke-1.0";
 const contentToCache = [
     "Build/Build.loader.js",
     "Build/Build.framework.js",
